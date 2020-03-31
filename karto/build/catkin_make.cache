@@ -1,0 +1,2 @@
+open_karto:slam_karto:sparse_bundle_adjustment
+-DCATKIN_DEVEL_PREFIX=/home/lei/karto/devel -DCMAKE_INSTALL_PREFIX=/home/lei/karto/install -G Unix Makefiles

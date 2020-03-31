@@ -1,0 +1,8 @@
+prefix=/home/lei/karto/install
+
+Name: sparse_bundle_adjustment
+Description: Description of sparse_bundle_adjustment
+Version: 0.4.2
+Cflags: -I/home/lei/karto/install/include
+Libs: -L/home/lei/karto/install/lib -lsba
+Requires: 

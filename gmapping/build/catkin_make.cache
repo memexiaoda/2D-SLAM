@@ -1,0 +1,2 @@
+slam_gmapping/gmapping:slam_gmapping/slam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/lei/gmapping/devel -DCMAKE_INSTALL_PREFIX=/home/lei/gmapping/install -G Unix Makefiles
